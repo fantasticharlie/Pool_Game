@@ -1,4 +1,3 @@
-% Kelvin Li
 % Detect possible collisions between balls
 
 function [dist_array, time_array] = ball_collision_detection(ball_id, test_ids, p_array, v_array, s_array, a, r, walls, check_pos_range)
